@@ -1,5 +1,7 @@
 # hello-world, first level header
-this is my first git-hub test project, and I will test some markdown grama here
+This is my first git-hub test project, and I will test some markdown grama here
+
+github is really very handy to cooperate with others.
 
 ## second level header
 
@@ -7,7 +9,7 @@ this is my first git-hub test project, and I will test some markdown grama here
 
 ** my first try on git-hub  **
 
-*** is github support markdown? ***
+***is github support markdown?***
 
 This is a first level header.
 ==================
