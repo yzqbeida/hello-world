@@ -31,7 +31,7 @@ Some of these words *are emphasized* in bold. Some are _underlined_ .  some are 
 3. blue
 
 
-This is an [example link](http://www.google.com/  "with a title).
+This is an [example link](http://www.google.com/  "with a title").
 
 I get 10 times more traffic from [Google][1] than from [Yahoo][2].
 
